@@ -65,5 +65,18 @@ annotate service.OrderSet with @(
             Value : currency,
         },
     ],
+    UI.HeaderInfo : {
+            $Type : 'UI.HeaderInfoType',
+            TypeName : 'Order',
+            TypeNamePlural: 'Orders',
+            Description : {
+                $Type: 'UI.DataField',
+                Value: orderid,
+            },
+            Title: {
+                $Type: 'UI.DataField',
+                Value: customername,
+            }
+        },
 );
 
