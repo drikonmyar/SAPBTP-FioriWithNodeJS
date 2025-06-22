@@ -1,7 +1,3 @@
-# SAPBTP-FioriWithNodeJS
-Fiori with Node JS in SAP BTP Cockpit
-
-
 # Getting Started
 
 Welcome to your new project.
