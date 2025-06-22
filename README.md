@@ -1,6 +1,17 @@
 # SAPBTP-FioriWithNodeJS
 Fiori with Node JS in SAP BTP Cockpit
 
+## Available Endpoints
+![alt text"Available Endpoints"](image.png)
+
+## UI
+
+### With manually created data model
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+### With edmx created data model
+![alt text](image-3.png)
 
 # Getting Started
 
